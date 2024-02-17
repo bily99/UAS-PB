@@ -56,7 +56,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Tugas 2 Naufal'),
+        title: Text('UAS Bily'),
       ),
       body: SingleChildScrollView(
         scrollDirection: Axis.vertical,
